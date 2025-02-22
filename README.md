@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hello there! I'm Slava! Let me take you on a journey through my interests, skills, and experiences!
 
-<!--
-**z21kamon/z21kamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 Education
+**Bachelor in Computer Science** @ **Inopolis University** '2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Interests
+
+- **Game Development** 🎮
+- **Game/Narrative Design** 🎨
+- **UX/UI Design** 🥼
+- **Software Development** 💻
+- **Competitive Robotics** 🤖 
+
+---
+
+### 🌍 Location
+**Krasnoyarsk** -> **Kazan**
+
+---
+
+### 💬 Languages
+- **Russian** 🇷🇺
+- **English** 🇬🇧
+
+---
+
+### 🛠️ Skills
+#### Software development
+- **Python** 
+- **C++**
+- **Django**
+- **Flask**
+#### Game development
+- **Unity 3D** 
+- **Blender** 
+- **Ren'Py** 
+#### Robotics
+- **Arduino** 
+- **Raspberry Pi** 
+
+---
+
+### 🌈 Contact me
+- [barcarolla25@gmail.com](mailto:barcarolla25@gmail.com)
+
+
+![this is me btw](https://c.tenor.com/sLIuJuqBfSYAAAAd/tenor.gif)
